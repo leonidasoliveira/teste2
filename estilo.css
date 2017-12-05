@@ -1,1 +1,13 @@
+p{
+    color: red;
+    font-size: 1em;
+    
+}
 
+p.endereco{
+    color: black;
+}
+
+.endereco{
+    font-family: monospace;
+}
